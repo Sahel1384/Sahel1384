@@ -31,6 +31,10 @@ Check out my repositories to see my latest work! 🔥
 - Enhance my **English fluency** for professional communication
 - Grow my **Amazon business** and explore new opportunities
 
+## 🏆 GitHub Achievements
+I have unlocked new achievements with private contributions! 🎉  
+Want to see more of my work? Make sure to **include private contributions** in your GitHub profile settings.
+
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-sahel-yousufzoy/)
 - 💻 [GitHub](https://github.com/Sahel1384)
