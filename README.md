@@ -1,44 +1,81 @@
-# Hi there, I'm Moh Sahel Yousufzoy 👋
+Hi there, I'm Moh Sahel Yousufzoy 
+ About Me
 
-## 🚀 About Me
+I’m a Full-Stack Web Developer specializing in ReactJS, Laravel, and FilamentPHP, with a passion for building modern, responsive, and scalable applications. Over the past few years, I’ve worked on multiple projects ranging from front-end SPAs to enterprise dashboards and management systems.
 
-I'm a **Front-End Developer** and **Laravel & PHP Developer** passionate about building modern, responsive, and user-friendly web applications. I have experience working with various technologies, including:
+I also have experience in freelancing, startups, and internships, where I applied my skills to real-world projects. Beyond tech, I’m exploring Amazon FBA and aiming to combine business with technology.
 
-- **Front-end:** ReactJS, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript
-- **Back-end:** Laravel, PHP, MySQL, Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Other Tools:** GitHub, Figma
+ Tech Stack
 
-## 💼 Projects & Experience
+Frontend: ReactJS, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript
 
-I have worked on numerous projects, including:
-- 🚀 **Single-Page Applications (SPAs) with React & TailwindCSS**
-- 🏥 **Hospital Website**
-- 🛒 **Dynamic Online Store with Laravel & PayPal Integration**
-- 🌍 **Multi-language Web Applications** (Pashto & Persian with Dark/Light Mode)
-- 🏡 **Tailor Management System**
+Backend: Laravel (11), PHP, FilamentPHP, Node.js, Express
 
-Check out my repositories to see my latest work! 🔥
+Databases: MySQL, MongoDB
 
-## 🔥 My Current Focus
-- Crafting a **personalized portfolio** to highlight my expertise & achievements
-- Expanding my **freelance presence** on Fiverr & attracting new clients
-- Diving deeper into **e-commerce & Amazon FBA** for business growth
+Mobile Development: React Native (with Expo, Context API, AsyncStorage, Laravel API integration)
 
-## 🎯 Future Aspirations
-- Advance my skills in **React, Laravel, and MERN Stack** with real-world projects
-- Build strong **connections with international clients**
-- Enhance my **English fluency** for professional communication
-- Grow my **Amazon business** and explore new opportunities
+Other Tools: GitHub, Figma, Postman, Composer, NPM/Yarn, Vite
 
-## 🏆 GitHub Achievements
-I have unlocked new achievements with private contributions! 🎉  
-Want to see more of my work? Make sure to **include private contributions** in your GitHub profile settings.
+Specialized: Authentication (Laravel Sanctum, JWT), Multi-language (Pashto, Persian), Dark/Light Mode
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-sahel-yousufzoy/)
-- 💻 [GitHub](https://github.com/Sahel1384)
-- 📧 Email: pbsyousufzoydreaminghigh@gmail.com
+ Projects & Experience
+ Key Projects
 
----
-🚀 *Passionate about building high-quality web applications and always eager to learn new technologies!*
+Single-Page Applications (SPAs): React + Tailwind with filtering, multi-language, dark/light modes
+
+Hospital Website: Built with modern UI/UX design and dynamic features
+
+Dynamic Online Store: Laravel-based e-commerce with PayPal integration
+
+Tailor Management System: Complete system with clients, measurements, clothing orders, payroll & expenses
+
+Construction/Town Management System: Dashboard with HR, finance, suppliers, properties, and more using FilamentPHP
+
+CEO Club Afghanistan Website: Designed and developed a professional club website frontend
+
+ Internship Experience
+
+Completed internship in different Technologies
+
+Delivered many solo projects and contributed to many team projects
+
+Gained hands-on expertise in:
+
+Data modeling & ERDs
+
+Full-cycle project development
+
+Authentication & API development
+
+Deployment & version control
+
+Received recognition from senior developers for quality, speed, and problem-solving
+
+ Future Aspirations
+
+Become a globally recognized full-stack developer
+
+Work with international clients & teams
+
+Scale my Amazon business and merge tech with entrepreneurship
+
+ GitHub Highlights
+
+Active in open-source & private projects
+
+Completed multiple full-stack systems within short timelines
+
+Strong background in problem-solving, UI/UX, and clean code principles
+
+Achievements unlocked with private contributions — don’t forget to enable them in GitHub settings!
+
+ Connect With Me
+
+💼 LinkedIn
+
+💻 GitHub
+
+📧 Email: pbsyousufzoydreaminghigh@gmail.com
+
+ Passionate about building high-quality digital products and always eager to learn, grow, and contribute to impactful projects!
